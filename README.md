@@ -1303,6 +1303,7 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 			<th>24/11</th>
 			<th>01/12</th>
 			<th>08/12</th>
+			<th>11/12</th>
 			<th>15/12</th>
 			<th>22/12</th>
 			<th>12/1</th>
@@ -1310,15 +1311,16 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 	</thead>
 	<tbody>
 		<tr>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>0</td>
+			<td>0</td>
+			<td>0</td>
+			<td>0</td>
+			<td>0</td>
+			<td>0</td>
+			<td>0</td>
+			<td>0</td>
+			<td>1</td>
+			<td>0</td>
 			<td></td>
 			<td></td>
 		</tr>
